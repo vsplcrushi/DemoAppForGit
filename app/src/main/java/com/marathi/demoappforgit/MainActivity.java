@@ -21,9 +21,6 @@ public class MainActivity extends AppCompatActivity {
             return insets;
         });
 
-
-        //hello word g
-
-        // this is my branch  rushikesh
+        // here is my branch rushikesh
     }
 }
