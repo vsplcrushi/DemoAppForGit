@@ -22,9 +22,7 @@ public class MainActivity extends AppCompatActivity {
         });
 
 
-       // This is Updated code - Aniket
-        // here is my branch rushikesh thak
-        // Second commit - Aniket
+       // Second
 
     }
 }
