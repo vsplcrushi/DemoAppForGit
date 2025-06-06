@@ -24,8 +24,6 @@ public class MainActivity extends AppCompatActivity {
 
         //hello word
 
-        //Hello world this is change in rushikesh1 branch 6/6/2025 2.29pm
-
-        //This message into rushikesh 2
+        // this is my branch  rushikesh
     }
 }
