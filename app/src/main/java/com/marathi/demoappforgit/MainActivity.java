@@ -21,7 +21,6 @@ public class MainActivity extends AppCompatActivity {
             return insets;
         });
 
-        // here is my branch rushikesh thak
-        // third commit
+       //first
     }
 }
